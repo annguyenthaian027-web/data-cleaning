@@ -1,0 +1,21 @@
+pandas>=2.0
+openpyxl>=3.1
+xlrd>=2.0
+python-dateutil
+streamlit>=1.30
+plotly>=5.0
+requests
+# Tuỳ chọn: AI thật (không cài vẫn chạy chế độ ngoại tuyến)
+anthropic
+openai
+# Tuỳ chọn: backend đăng nhập
+fastapi
+uvicorn
+pymongo
+mongomock
+python-jose
+passlib[bcrypt]
+bcrypt<4.1
+python-multipart
+pytest
+dnspython
